@@ -6,8 +6,9 @@ if (session_status() == PHP_SESSION_NONE) {
 ?>
 <head>
 	<title>Balders Nyheter</title>
-	  <link rel="stylesheet" type="text/css"href="css/main.css">
-	  <link rel="icon"  href="icon.png">
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Mono">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="icon"  href="icon.png">
 </head>
 <body>
  	
